@@ -1,5 +1,5 @@
 -  Hi, I’m @enryuSkywalker im starting to learn frontend;
--  I’m currently learning html, css and js;
+-  I’m currently learning html, css, js and react;
 
 <!---
 enryuSkywalker/enryuSkywalker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
